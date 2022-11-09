@@ -1,6 +1,6 @@
 # Usage
 ```
-curl https://raw.githubusercontent.com/chatofking/HomeLab/master/bash.sh
+wget https://raw.githubusercontent.com/chatofking/HomeLab/master/bash.sh
 ```
 run
 ```
