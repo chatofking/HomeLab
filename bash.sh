@@ -1,4 +1,5 @@
 #! /bin/bash
+
 sudo apt update
 sudo apt install neofetch htop -y
 curl https://raw.githubusercontent.com/Cretezy/Swap/master/swap.sh -O swap
