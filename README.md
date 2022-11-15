@@ -1,8 +1,8 @@
 # Usage
 ```
-curl https://raw.githubusercontent.com/chatofking/HomeLab/master/bash.sh -O bash.sh
+curl https://raw.githubusercontent.com/chatofking/HomeLab/master/bash.sh
 ```
 run
 ```
-sh bash
+sh bash.sh
 ```
